@@ -1,0 +1,87 @@
+body {
+  background-color: #EDEFEE;
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/*---------------Header---------------*/
+.top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.top__logo {
+  max-width: 30%
+}
+
+.top__nav {
+  width: 70%;
+}
+
+.top__nav ul {
+  display: flex;
+  background-color: #333333;
+  color: #fff;
+  border-radius: 10px;
+  height: 50px;
+  justify-content: center;
+  gap: 200px;
+  font-size: 2rem;
+  align-items: center;
+}
+
+/*----------Main----------------------*/
+main {
+  width: 70%;
+  margin: 0 auto;
+  flex-grow: 1;
+}
+
+.news {
+  background-image: url('./images/delicious-pasta-with-tomatoes-top-view.jpg');
+  background-size: contain;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+/*----------Product---------*/
+.product {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0 20px ;
+  color: #000;
+}
+
+.product__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:20px;
+  border-radius: 10px;
+  background-color: #F4E5D6;
+}
+
+.product__card p {
+  width: 80%;
+}
+
+.copyright {
+  text-align: right;
+  
+}
