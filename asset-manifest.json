@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8ae39cf2.css",
-    "main.js": "/react-gh-pages/static/js/main.14eb3909.js",
+    "main.css": "/react-gh-pages/static/css/main.9b14fb6d.css",
+    "main.js": "/react-gh-pages/static/js/main.d55ddcbb.js",
     "static/js/787.b701888c.chunk.js": "/react-gh-pages/static/js/787.b701888c.chunk.js",
     "static/media/lemons.jpg": "/react-gh-pages/static/media/lemons.2450e8f4bf706408a595.jpg",
     "static/media/table.jpg": "/react-gh-pages/static/media/table.c34d1edd4bf58bf2b44b.jpg",
@@ -9,12 +9,12 @@
     "static/media/open.jpg": "/react-gh-pages/static/media/open.f5f3895827105483b396.jpg",
     "static/media/Asset 14@4x.png": "/react-gh-pages/static/media/Asset 14@4x.8a256f93a3f4ddd93773.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.8ae39cf2.css.map": "/react-gh-pages/static/css/main.8ae39cf2.css.map",
-    "main.14eb3909.js.map": "/react-gh-pages/static/js/main.14eb3909.js.map",
+    "main.9b14fb6d.css.map": "/react-gh-pages/static/css/main.9b14fb6d.css.map",
+    "main.d55ddcbb.js.map": "/react-gh-pages/static/js/main.d55ddcbb.js.map",
     "787.b701888c.chunk.js.map": "/react-gh-pages/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ae39cf2.css",
-    "static/js/main.14eb3909.js"
+    "static/css/main.9b14fb6d.css",
+    "static/js/main.d55ddcbb.js"
   ]
 }
